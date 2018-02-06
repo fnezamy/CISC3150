@@ -1,0 +1,16 @@
+Enter a radius
+10
+314.1592653589793
+30
+2827.4333882308138
+2
+12.566370614359172
+0
+0.0
+
+Exception in thread "main" java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at Area.main(Area.java:20)

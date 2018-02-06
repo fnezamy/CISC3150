@@ -1,0 +1,32 @@
+Enter coordinates for point A
+0
+0
+Enter coordinates for point B
+0
+0
+Enter coordinates for point C
+0
+0
+The points do not form a triangle
+
+Enter coordinates for point A
+10
+10
+Enter coordinates for point B
+20
+20
+Enter coordinates for point C
+30
+30
+The points do not form a triangle
+
+Enter coordinates for point A
+1
+2
+Enter coordinates for point B
+2
+3
+Enter coordinates for point C
+4
+1
+The points form a triangle

@@ -1,0 +1,33 @@
+Enter Circle 1's center coordinates and radius
+10
+15
+5
+Enter Circle 2's center coordinates and radius
+15
+10
+5
+There is an overlap between the circles.
+
+Enter Circle 1's center coordinates and radius
+10
+10
+5
+Enter Circle 2's center coordinates and radius
+30
+30
+5
+The circles do not overlap.
+
+
+Enter Circle 1's center coordinates and radius
+10
+10
+2
+Enter Circle 2's center coordinates and radius
+15
+15
+10
+The circles are inside each other
+
+
+
