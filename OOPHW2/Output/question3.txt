@@ -1,0 +1,8 @@
+Enter a string
+hello
+String is not a palindrome
+
+
+Enter a string
+madamimadam
+String is palindrome

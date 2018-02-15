@@ -1,0 +1,7 @@
+6)
+You could use scanner's .next().charAt(0);
+
+char c;
+Scanner sc = new Scanner(system.in);
+
+c = sc.next().charAt(0);
