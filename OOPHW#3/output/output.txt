@@ -1,0 +1,9 @@
+hello.charAt(4): o
+world.length(): 5
+hello.substring(1,4): ell
+world.toLowerCase(): world
+hello.toUpperCase(): HELLO
+world.equals(PIZZA)? : false
+hello.getMyString(): HELLO
+world.toString(): world
+MyString.valueOf(747): 747
