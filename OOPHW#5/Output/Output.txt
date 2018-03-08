@@ -1,0 +1,26 @@
+Optimizing2 output
+
+Enter the radius r
+1
+Ratio of areas (PI/4) = 0.5
+The estimated value of PI = 4 X (PI/4): 2.0
+The speed is 
+1025
+
+Optimizing1 output
+Enter the radius r
+1
+Dots that hit the circle: 9
+Dots that hit the square: 1
+Ratio of areas (PI/4) = 0.9
+The estimated value of PI = 4 X (PI/4): 3.6
+1565
+
+
+Circle output
+Enter the radius r
+1
+Ratio of areas (PI/4) = 0.3
+The estimated value of PI = 4 X (PI/4): 1.2
+The speed is 
+1100
