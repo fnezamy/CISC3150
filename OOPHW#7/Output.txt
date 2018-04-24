@@ -1,0 +1,25 @@
+The infix expression is : a X 10
+Exception in thread "main" AlegbraFailException: Please provide valid numbers
+	at Calculator.infixToPostfix(Calculator.java:66)
+	at Calculator.main(Calculator.java:44)
+
+The infix expression is : 10 + 13 X 3.66 / 2
+The postfix expression is :  10  13  3.66 X 2 / +
+The answer to the expression is : 33.79
+
+
+The infix expression is : ( 87 X 2 ) + ( 67 / 0 )
+Exception in thread "main" java.lang.ArithmeticException: Can't divide by zero
+	at Calculator.postfixEvaluate(Calculator.java:138)
+	at Calculator.main(Calculator.java:45)
+
+
+The infix expression is : 23 # 1
+Exception in thread "main" QuitMashingOnYourKeyboardException: Unsupport operator entered.
+	at Calculator.infixToPostfix(Calculator.java:74)
+	at Calculator.main(Calculator.java:44)
+
+Exception in thread "main" The infix expression is : 
+UserIsADumbassException: Please provide valid input
+	at Calculator.infixToPostfix(Calculator.java:57)
+	at Calculator.main(Calculator.java:44)

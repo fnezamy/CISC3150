@@ -1,0 +1,30 @@
+1. 
+
+Throwable can be used instead of any individual exception/error. 
+
+Source : https://stackoverflow.com/questions/6772225/is-catch-block-able-to-catch-throwable-both-error-and-exception
+
+2. 
+
+"In case of the default methods conflict resolution, when we override the default method and would like to delegate the invocation to one of the interfaces the invokespecial is inferred as we would call the implementation specifically:
+
+public class Clazz implements A, B {
+    public void foo(){
+       A.super.foo(); // invokespecial foo()
+    }
+}
+
+Here’s the javap output:
+
+
+public void foo();
+Code:
+0: aload_0
+1: invokespecial #2 // InterfaceMethod A.foo:()V
+4: return
+
+As you can see, invokespecial instruction is used to invoke the interface method foo(). This is also something new from the bytecode point of view as previously you would only invoke methods via super that points to a class (parent class), and not to an interface."
+
+So the ability to call a default implmentation of a method is a new feature of java 8
+
+Source : https://zeroturnaround.com/rebellabs/java-8-explained-default-methods/
