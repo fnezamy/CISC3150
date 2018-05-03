@@ -1,0 +1,86 @@
+Directory: C:\Program Files (x86)\Apple Software Update
+
+---------------------------------------------------------------------------
+
+[Plugins]
+	EXEInstallPlugin.dll
+	MSIInstallPlugin.dll
+ScriptingObjectModel.dll
+SoftwareUpdate.exe
+[SoftwareUpdate.Resources]
+	|-----------[da.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[de.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[en.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[es.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[fi.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[fr.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[it.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[ja.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[ko.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[nb.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[nl.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[pl.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[pt.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[pt_PT.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[ru.lproj]
+		SoftwareUpdateLocalized.dll
+	Software Update.tiff
+	|-----------[sv.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[zh_CN.lproj]
+		SoftwareUpdateLocalized.dll
+	|-----------[zh_TW.lproj]
+		SoftwareUpdateLocalized.dll
+SoftwareUpdateAdmin.dll
+SoftwareUpdateFiles.dll
+[SoftwareUpdateFiles.Resources]
+	|-----------[da.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[de.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[en.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[es.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[fi.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[fr.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[it.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[ja.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[ko.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[nb.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[nl.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[pl.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[pt.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[pt_PT.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[ru.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[sv.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[zh_CN.lproj]
+		SoftwareUpdateFilesLocalized.dll
+	|-----------[zh_TW.lproj]
+		SoftwareUpdateFilesLocalized.dll
