@@ -1,0 +1,20 @@
+In our class we went over the code posted at: 
+https://pastebin.com/dwZqBs4u
+But we ran into a bunch of problems.
+
+First, we were unable to instantiate the Object class. Explain that.
+
+Second, we saw that with the notifyAll() uncommented, and the keyword 
+synchonized removed from the method declarations, the program just died 
+without throwing any exceptions. Given that we are working with an 
+infinite loop here, that shouldn't have happened. Explain that.
+
+
+
+1) I copied and pasted the code and tried to instiate a new object on my computer and it worked fine. I think that the path to the Object class might have been corrupted on the computer in class.
+
+2) Because synchronized was removed, I think there were two threads trying to access the same resource so the compiler doesnt know which thread to start first causing a race condition. 
+
+
+
+
